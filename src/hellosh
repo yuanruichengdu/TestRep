@@ -1,0 +1,5 @@
+#!/bin/sh
+
+a="hello world, I am guwb"
+
+echo $a

@@ -32,3 +32,6 @@ http://rogerdudler.github.io/git-guide/index.zh.html
 
 git community book
 http://gitbook.liuhui998.com/index.html
+
+写个git初学者的7个建议
+http://developer.51cto.com/art/201401/426289.htm

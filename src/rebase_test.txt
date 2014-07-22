@@ -1,4 +1,1 @@
 this is a rebase test of branch1 to dev.
-
-
-add a line.

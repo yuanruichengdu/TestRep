@@ -13,4 +13,6 @@ void main( int argc, char *argv[])
 	cout<<"How are you doing lately!"<<endl;
 	
 	cout<<"just so so..."<<endl;
+
+	cout<<"Fighting!"<<endl;
 }

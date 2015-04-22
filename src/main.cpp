@@ -17,4 +17,8 @@ void main( int argc, char *argv[])
 	cout<<"Fighting!"<<endl;
 
 	cout<<"Fighting!"<<endl;
+
+	cout<<"I find a problem!"<<endl;
+
+	cout<<"What?"<<endl;
 }

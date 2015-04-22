@@ -15,4 +15,6 @@ void main( int argc, char *argv[])
 	cout<<"just so so..."<<endl;
 
 	cout<<"Fighting!"<<endl;
+
+	cout<<"Fighting!"<<endl;
 }
